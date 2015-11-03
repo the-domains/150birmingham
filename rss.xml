@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Speed Networking Birmingham]]></title>
+        <description><![CDATA[Speed Networking Birmingham]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 17:12:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[150]]></title>
+            <description><![CDATA[<article><h1>150</h1><p>The 150 is a speed networking event for the creative industry in Birmingham.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29296697-ab41-462b-ae6b-8eebbcde8210.jpg"></article>]]></description>
+            <link>undefined150/index.html</link>
+            <guid isPermaLink="false">4f50716b-f550-49b6-a6de-491fe6a519ae</guid>
+            <pubDate>Tue, 03 Nov 2015 17:10:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
